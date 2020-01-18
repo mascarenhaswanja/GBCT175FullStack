@@ -1,3 +1,7 @@
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](https://asset.swarovski.com/images/$size_500/t_swa101/t_swa103/b_rgb:fafafa%2Cf_auto%2Cw_auto%2Cc_scale%2Cdpr_auto/5379499_png/star-wars---darth-vader-swarovski-5379499.png)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/mascarenhaswanja/GBCT175FullStack/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
