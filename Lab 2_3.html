@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="lab2_3.css">
+    <title>Lab 2.3 - Wanja Mascarenhas</title>
+</head>
+  <h3>Form: Choose, Min and Max, Interval</h3>
+<body>
+    <form>
+      <label for="choose">Would you prefer a banana or cherry? (required)</label>
+      <input id="choose" name="i_like" pattern="[B|b]anana|[c|C]herry" required>
+      <button>Submit</button>
+      <br><br>
+      <label for="Minmax">Min. Lenght(3) and Max. Length(20) </label>
+      <input type="text" name="Minmax" minlength="3" maxlength="20">
+      <br><br>
+      <label for="interval">Number (Interval between 7 and 36)</label>
+      <input type="number" name="interval" min="7" max="36">
+    </form>
+</body>
+
+</html>
